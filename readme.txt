@@ -6,3 +6,4 @@ Git tracks changes of file.
 Git can merge branch.
 --no-ff git merge
 create the next generation seattle ship.
+petter has revision this text.
