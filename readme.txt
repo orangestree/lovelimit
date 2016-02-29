@@ -5,4 +5,4 @@ Git has a mutable index called stage
 Git tracks changes of file.
 Git can merge branch.
 --no-ff git merge
- 
+create the next generation seattle ship.
